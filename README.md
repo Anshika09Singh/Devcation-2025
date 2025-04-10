@@ -11,6 +11,9 @@ Devcation 2025 is a tech event designed to empower and bring together developers
   - Instagram: [@gdsc_igdtuw](https://www.instagram.com/gdsc_igdtuw)
   - LinkedIn: [Devsation LinkedIn](https://www.linkedin.com/company/dscigdtuw/mycompany/)
   - Twitter: [@gdsc_igdtuw](https://x.com/gdsc_igdtuw)
+ 
+DEMO OF WEBSITE-
+https://devcation-2025-anshika09singhs-projects.vercel.app/
 
 ## Prizes
 
